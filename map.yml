@@ -1,0 +1,5 @@
+map_name: ww2v4_variants
+games:
+- game_name: Maintenance-WW2v4
+  file_name: WW2v4-Maintenance.xml
+version: 1
